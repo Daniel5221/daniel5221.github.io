@@ -1,0 +1,31 @@
+body{
+background-color: black;
+color: white;
+font-family: Arial;
+}
+
+h1{
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+    font-family: "Arial";
+}
+
+h2{
+color:rgb(255, 0, 0);
+font-size: 30px;
+font-family: "Tmimes New Roman";
+margin-top: 40px;
+}
+
+ul{
+    list-style-type:circle
+}
+
+li{
+    color:rgb(136, 255, 0);
+}
+
+a{
+    list-style:none;
+    color:aquamarine
+}
